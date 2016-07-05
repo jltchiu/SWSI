@@ -1,0 +1,6 @@
+Averge Precision=Recall=F1 Among all Query:
+0.735186899194
+Averge Rand Index Among all Query:
+0.484947446825
+Averge Adjested Rand Index Among all Query:
+-0.00629084947853
